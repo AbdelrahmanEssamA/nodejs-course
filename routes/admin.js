@@ -5,6 +5,7 @@ const express = require('express');
 const productsController = require('../Controllers/admin');
 
 const router = express.Router();
+
 //RETRIEVING PRODUCTS
 router.get('/products', productsController.getProducts);
 
