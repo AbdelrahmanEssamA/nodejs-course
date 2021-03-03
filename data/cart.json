@@ -1,0 +1,8 @@
+{
+   "products": [
+      { "id": "3", "qty": 1 },
+      { "id": "2", "qty": 1 },
+      { "id": "4", "qty": 3 }
+   ],
+   "totalPrice": 130
+}
